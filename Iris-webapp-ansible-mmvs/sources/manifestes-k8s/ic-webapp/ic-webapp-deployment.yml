@@ -27,4 +27,4 @@ spec:
           value: http://192.168.56.4:30050/
         ports:
         - containerPort: 8000
-          name: webapp-test
+          name: ic-webapp
