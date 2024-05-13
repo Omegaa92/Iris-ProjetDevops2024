@@ -24,7 +24,7 @@ spec:
         - name: ODOO_URL
           value: http://192.168.56.4:30069/
         - name: PGADMIN_URL
-          value: http://192.168.56.4:8000/
+          value: http://172.28.128.32:30050/
         ports:
         - containerPort: 8000
           name: webapp-test
